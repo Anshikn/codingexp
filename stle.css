@@ -113,7 +113,7 @@ main{
   object-fit: cover;
   border-radius: 8px;
 }
-H2{
+.na{
   font-weight: 500;
   font-size: 50px;
   margin: 30px 0 5px;
